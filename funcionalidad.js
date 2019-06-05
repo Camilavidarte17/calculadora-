@@ -22,7 +22,7 @@ function init() {
     var nueve = document.getElementById('nueve');
     var cero = document.getElementById('cero');
 }
-
+//Holissxdddd
 
 uno.onclick = function (e) {
     resultado.textContent = resultado.textContent + "1";
